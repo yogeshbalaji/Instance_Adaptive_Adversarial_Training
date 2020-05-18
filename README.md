@@ -1,6 +1,6 @@
 # Instance Adaptive Adversarial Training
 
-Code accompanying out paper: "Instance adaptive adversarial training: Improved accuracy tradeoffs in neural nets"
+Code accompanying out [paper](https://arxiv.org/abs/1910.08051): "Instance adaptive adversarial training: Improved accuracy tradeoffs in neural nets"
 
 ## Requirements
 
